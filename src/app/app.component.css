@@ -1,0 +1,31 @@
+
+
+.navbar{
+    padding-left: 20%;
+    padding-right: 10%;
+    /* padding-bottom:px; */
+    background-color:gray;
+}
+body{
+    /* background-image: url(../assets/bg.jpg); */
+    background-color: #d8cfcf;
+}
+
+
+
+
+.nav-link:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+.navbar-toggler-icon{
+    margin-right: 0%;
+}
+
+
+
+

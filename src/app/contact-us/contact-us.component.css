@@ -1,0 +1,35 @@
+/* .contact-us{
+    height: 600px;
+} */
+
+.map-container-5{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-5 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+
+    .contact-us{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .contact{
+        padding-left: 30%;
+        padding-right: 30%;
+    }
+    
+    .contact-school{
+        padding-left: 40%;
+    }
+
+    .contact-info{
+        padding-left: 10%;
+    }
